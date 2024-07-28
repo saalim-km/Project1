@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body{
+
+    font-family: "Open Sans", sans-serif;
+    background-image: url('./assets/bg-image2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+  }
+  .container{
+      /* background-color: rgb(27, 27, 28); */
+      border-color: blue;
+      box-shadow: 10px 10px 5px lightblue;
+  }
+  .center-div{
+      padding-top: 10%;
+  }
+  
+  .btn.btn-success{
+      padding: .4em 2em;
+      margin-top: .8em;
+  }
+  .btn.btn-success:visited{
+      background-color: red;
+  
+  }
+  
+  form{
+      padding: 0 3em;
+  }
+  
+  #span1{
+      font-size: .8em;
+  }
